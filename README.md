@@ -28,7 +28,6 @@ I studied how Bayesian Fourier Neural Operators can attach uncertainty estimates
 | [**morse-code**](https://github.com/nlbetters/morse-code) | Interactive Morse encoder/decoder following ITU timing. Audio playback and live mic decoding are next. | Python |
 | [**virustotal-ip-scan**](https://github.com/nlbetters/virustotal-ip-scan) | Bulk-checks IP addresses against the VirusTotal API and exports a CSV report. | Python, REST API |
 
-**Up next:** a remote control add-on for key fob door locks that don't support remote access.
 
 ---
 
